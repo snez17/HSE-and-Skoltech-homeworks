@@ -1,4 +1,4 @@
-Hi everyone, I completed a bunch of courses accomplished in Python.
+Hi everyone, as a student I accomplished a bunch of courses using Python.
 
 Let me introduce these projects shortly:
 
