@@ -11,13 +11,8 @@ Let me introduce these courses shortly:
 **3. Econometrics**
 -- simple regression analysis on insurance costs
 
-**4. Math courses**
+**4. Math courses**  -- linal h/w  -- numpy h/w
 
--- linal h/w
--- numpy h/w
-
-**5. Methods of Optimization**
-
--- steepest gradient function
+**5. Methods of Optimization**  -- steepest gradient function
 
 Enjoy!
