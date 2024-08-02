@@ -15,4 +15,6 @@ Let me introduce these courses shortly:
 
 **5. Methods of Optimization**  -- steepest gradient function
 
+**6. AI courses** --- GenAI
+
 Enjoy!
