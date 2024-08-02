@@ -1,6 +1,6 @@
 Hi everyone, as a student I accomplished a bunch of courses using Python.
 
-Let me introduce these projects shortly:
+Let me introduce these courses shortly:
 
 **1. Intro in ML**
 -- 4 projects on basic for ML datasets
